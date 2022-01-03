@@ -9,6 +9,7 @@ const Header = () => {
             <Button color='green' text='royale'/>
             <Button color='green' text='royale'/>
             <Button color='green' text='royale'/>
+            test
         </header>
     )
 }
