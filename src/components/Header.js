@@ -8,6 +8,7 @@ const Header = () => {
             <Button color='red' text='oof'/>
             <Button color='green' text='royale'/>
             <Button color='green' text='royale'/>
+            <Button color='green' text='royale'/>
         </header>
     )
 }
